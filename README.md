@@ -1,7 +1,6 @@
 ## Hai there 👋!
 
-<!--
-**aztro-leakz/aztro-leakz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ## ABOUT ME
 hai im aztro. im a 14 year old boy currently in high school. i am currently  in the midle of working on a project called Bypazzr [this!](https://github.com/aztro-leakz/BYPAZZ)  and im also hoping to start more projects like that one! i am currently  open for hire although i dont know what you would want me for XD.
